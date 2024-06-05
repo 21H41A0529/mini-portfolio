@@ -1,0 +1,28 @@
+/* Write your CSS code here */
+.listItem {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+.items {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+}
+.profileCon {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+.profile {
+  height: 40px;
+  width: 40px;
+  margin-right: 10px;
+}
+.image {
+  height: 60px;
+  width: 80px;
+}
